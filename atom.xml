@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Heimindanger&#39;s Blog</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://heimindanger.com/"/>
+  <updated>2017-01-02T12:33:09.674Z</updated>
+  <id>http://heimindanger.com/</id>
+  
+  <author>
+    <name>Heimindanger</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Early XMAS Update on SteemWhales.com</title>
+    <link href="http://heimindanger.com/2016/12/15/early-xmas-update-on-steemwhales-com/"/>
+    <id>http://heimindanger.com/2016/12/15/early-xmas-update-on-steemwhales-com/</id>
+    <published>2016-12-15T02:49:09.000Z</published>
+    <updated>2017-01-02T12:33:09.674Z</updated>
+    
+    <content type="html"><![CDATA[<center><a href="http://www.steemwhales.com/" target="_blank" rel="external"><img src="http://i.imgur.com/tKR9pxo.png" title="STEEM Net Distribution on 2016-12-14"></a><br></center>
+
+<h3 id="Distribution-Graph"><a href="#Distribution-Graph" class="headerlink" title="Distribution Graph"></a>Distribution Graph</h3><p>I believe someone suggested that to me, not sure who, but I Improved the distribution graph (on homepage) to include the top 1‰ (or 0.1%). Things have been moving recently for the distribution as the top 1% will soon control less than 90% of the total estimated value on the STEEM network. Also changed the name of 1-10% and 10-100% to Dolphins and Minnows.</p>
+<center><a href="http://www.steemwhales.com/" target="_blank" rel="external"><img src="http://i.imgur.com/aAMYpdN.png" title="STEEM Net Distribution on 2016-12-14"></a><br><sup>Net Value Distribution on 14/12/2016</sup></center>
+
+<h3 id="Evolution-Graph"><a href="#Evolution-Graph" class="headerlink" title="Evolution Graph"></a>Evolution Graph</h3><p>The evolution graph now shows the whole history since SteemWhales’ birth. The daily graph was showing only past 2 weeks or something and was generally useless. This applies to any metric of course, here it is for the SBD:</p>
+<center><a href="http://www.steemwhales.com/" target="_blank" rel="external"><img src="http://i.imgur.com/GDLrnje.png" title="STEEM Net Distribution on 2016-12-14"></a><br><sup>All SBD in circulation, about 1 cool million</sup></center>
+
+
+<h3 id="Weekly-stats-on-profile-pages"><a href="#Weekly-stats-on-profile-pages" class="headerlink" title="Weekly stats on profile pages"></a>Weekly stats on profile pages</h3><p>You can now see a graph for your whole history, at least since SteemWhales existed. Just go any user and select ‘Weekly’ on the upper left part of the graph instead of ‘Daily’. Now that the website has gathered a bit of data I figured it was about time to show it.</p>
+<center><a href="http://www.steemwhales.com/poloniex?weekly" target="_blank" rel="external"><img src="http://i.imgur.com/wyOaIju.png" title="STEEM Net Distribution on 2016-12-14"></a><br><sup>Seems like there is more and more STEEM inside Poloniex users wallets</sup></center>
+
+<h3 id="Profile-Picture-Location-Link-and-Description-added"><a href="#Profile-Picture-Location-Link-and-Description-added" class="headerlink" title="Profile Picture, Location, Link and Description added"></a>Profile Picture, Location, Link and Description added</h3><p>SteemWhales now updates your metadata as well and makes use of it. I can now display your beautiful faces on the website (instead of the whale which will remain for users without a profile image), as well as location, website link and description. Check out <a href="http://steemwhales.com/ned" target="_blank" rel="external">ned’s profile</a></p>
+<h3 id="Ads"><a href="#Ads" class="headerlink" title="Ads"></a>Ads</h3><p>I’m just trying out an ad network that works on bitcoin and that doesn’t even require registration to start earning. I enabled ‘Shady Ads’ so click them at your own risks. All earnings of the campaign are public and can be seen at <a href="https://a-ads.com/ad_units/324254" target="_blank" rel="external">https://a-ads.com/ad_units/324254</a>  </p>
+<p>Hope you guys are still enjoying the website. I think that was some good quality of life changes for the website that everyone will enjoy, from newcomers to Steem power-users.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;center&gt;&lt;a href=&quot;http://www.steemwhales.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/tKR9pxo.png&quot; title=&quot;STEEM Net Dist
+    
+    </summary>
+    
+    
+      <category term="steem" scheme="http://heimindanger.com/tags/steem/"/>
+    
+      <category term="steemwhales" scheme="http://heimindanger.com/tags/steemwhales/"/>
+    
+      <category term="steemsanta" scheme="http://heimindanger.com/tags/steemsanta/"/>
+    
+      <category term="christmas" scheme="http://heimindanger.com/tags/christmas/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Downvote me if you can&#39;t</title>
+    <link href="http://heimindanger.com/2016/11/25/downvote-me-if-you-can-t/"/>
+    <id>http://heimindanger.com/2016/11/25/downvote-me-if-you-can-t/</id>
+    <published>2016-11-25T18:13:33.000Z</published>
+    <updated>2017-01-02T12:33:09.674Z</updated>
+    
+    <content type="html"><![CDATA[<p>I joined steem in July after reading the article on <a href="https://www.theguardian.com/technology/2016/jul/12/steem-digital-currency-steemit-value-soars" target="_blank" rel="external">theguardian.com</a>, and I have never bothered to do a presentation post, which was the trend at the time. Maybe I should have, because people still don’t seem to understand the kind of person I am.</p>
+<center><br><a href="http://i.imgur.com/ue9iKuq.png" target="_blank" rel="external">http://i.imgur.com/ue9iKuq.png</a><br></center>
+
+<p>Unlike many users here, I am not new to cryptocurrency. I have owned and used Bitcoins for a long time now. For what it’s worth, I have a masters degree in Mathematics and I am a successful www entrepreneur. I have been living 90% of my entire adult life without a master (or real-job as slaves would call it), and I don’t plan on giving up on this way of life. I have a lot of hatred in me, especially for hypocrits and dishonest people. I am usually brutally honest and I like people to do the same to me. My friends circle is not too large, but at least I know I can count on them when the time comes.</p>
+<p>This is going to be a long post, as it will most likely be my last one. So here goes a nice song to listen to while reading the article.</p>
+<center><br><a href="https://www.youtube.com/watch?v=DK4FTvaW_6Q" target="_blank" rel="external">https://www.youtube.com/watch?v=DK4FTvaW_6Q</a><br></center>
+
+<p> I will input my full Steem experience and my analysis of what is good and wrong with it. I am definately not writing this post for the rewards, and whatever this post makes will get cashouted in the next 13 weeks to Poloniex and will contribute to the fall.</p>
+<p><a href="http://i.imgur.com/dqljJYt.png" target="_blank" rel="external">http://i.imgur.com/dqljJYt.png</a></p>
+<h1 id="Why-I-got-interested-in-Steem"><a href="#Why-I-got-interested-in-Steem" class="headerlink" title="Why I got interested in Steem"></a>Why I got interested in Steem</h1><p>When I first joined Steem the first thing that struck me as a great idea was the fact that a large percentage of the daily created coins were not given to bots, but to human writers. We are all aware of the ASICs and mining-farms problem in bitcoin or other cryptos with similar distribution systems. On steem, there is theorically no way a bot can make money from writing contents, as it is still pretty hard to algorithmically write a lot of contents. Writing is something computers can’t beat humans at (by far).</p>
+<p>Another surprising fact to me when I joined was the fact that the tech was already functional. The SteemIt website worked well, even though it was a clear copy of reddit, at least it was decentralized and I could add my voice to the steem blockchain in 4 seconds, without anyone being able to censor me. I guess a lot of people realized that at the same time than me, considering the huge peak in the steem value following my arrival.</p>
+<p>At this point in time, I was hyped. I told my friends about steem, I think about a dozen of them created accounts. I wanted to play the game, try to get some of that juicy steem power. Creating <a href="http://www.steemwhales.com" target="_blank" rel="external">SteemWhales.com</a> was pretty obvious to me, as previously stated, I am mostly interested in the distribution of the coins, and the steemd.com website was slow as hell and didn’t give precise information. To this day, <a href="http://www.steemwhales.com" target="_blank" rel="external">SteemWhales</a> keeps on increasing traffic and I regularly see it mentioned or screenshoted in various posts, so I guess it is serving it’s purpose.</p>
+<p><a href="http://steemwhales.com/pic/whale.png" target="_blank" rel="external">http://steemwhales.com/pic/whale.png</a></p>
+<h1 id="How-it-went-downhill-for-me"><a href="#How-it-went-downhill-for-me" class="headerlink" title="How it went downhill for me"></a>How it went downhill for me</h1><p>I originally joined steemit.chat to ask technical questions to @svk who created the open source tool that SteemWhales uses to connect to the blockchain easily. My conversation list quickly grew. On any decent article I would post, I would receive at least 2 or 3 messages like ‘Your post deserves more, I am forwarding it to some whales right now’. Needless to say these people were right. Whenever I got one of these messages my post would double or triple up in value in the next minutes.</p>
+<p>SteemWhales also proved that the distribution was definatly unfair, if you look at the pie chart on the top right of the homepage, top 1% controls 90% of the wealth. Top 10% controls 99% of the wealth. Oh, did I mention this pie chart ignores the @steemit account? So it is actually far worse than what is showed here, but if I didnt ignore this account, the pie chart would look like flat blue. </p>
+<center><br><a href="http://i.imgur.com/BSRa4lV.png" target="_blank" rel="external">http://i.imgur.com/BSRa4lV.png</a><br></center>
+
+<p>It’s hard to compare the distribution of coins on steemit to the real world, because of the huge divergence in the statistical results, but probably the top 1% controls about half (50%) of the total wealth, which fits the pareto principle and must be about right.</p>
+<p>Another thing that annoyed me was the attitude of the developers behind the project. For people who are unaware, the Steem blockchain is copyrighted. You can clone the source code, but you are not allowed to modify it to generate a new chain as per the <a href="https://github.com/steemit/steem/blob/develop/LICENSE.md" target="_blank" rel="external">licence file</a>. On the other side, they had absolutly no problem open sourcing the steemit.com website’s code when there was a shitload of posts about the fact that the UI looks like from the 90s.</p>
+<p>On a side note, I’ve helped on the french <a href="https://github.com/steemit/steemit.com/tree/develop/app/locales" target="_blank" rel="external">translations</a> of the steemit website. <a href="https://github.com/steemit-intl" target="_blank" rel="external">A group of 7 people</a> contributed to make this possible, even though most of the code making translation possible was written by one of the engineers of <a href="https://golos.io/" target="_blank" rel="external">golos.io</a>, a fork of Steem which received SteemIt Corp approval (for money or shares probably). Very quickly, our repository was <a href="https://github.com/steemit/steemit.com/commit/c577983b995026c5a4f02410cbabbce9432d00eb" target="_blank" rel="external">fake merged into the official one</a>, but any mention of the actual translators were deleted and all the credit was taken by this ‘valvaz’ dude.</p>
+<p>Since I’ve been here, I’ve seen the SteemIt Corp devs attempting many money grabs. They added a button to buy steem on the homepage (through blocktrades which has huge fees), they added promoted posts, and the feature to disable rewards or get full steem power rewards. Needless to say these attempts were fails. Proof is they got removed at one point.</p>
+<p>SteemIt is a very valuable website, which drives a lot of traffic and gets a lot of incoming links. Any normal monetisation program would start by including ads. To this day I still have no idea why this wasn’t implemented. It seems the people behind steemit might be good at getting things done but they have no idea about marketing and monetization.</p>
+<p>They might be good at getting stuff done, but any actual features they added were all bad ideas or broke more important parts of the system. I’m not even going to talk about the resteem feature for obvious reasons… </p>
+<p>The follow feature was a big change, especially when we consider that they made it the default homepage for logged in users! It changed a lot of users habits, and gave a ‘twitter’ feeling to the website. Personally I hate it, I wish the trending could be my homepage again.</p>
+<p>The reputation system in itself wasn’t a bad feature as it solved the commenting bots problem, but it reinforced the networking aspect of the game. Because of the fact that everything is public in the blockchain, it is easy to know who is downvoting you, and if you downvote someone higher reputation than you, it won’t do anything, and if the guy is a mad little kid like 99% of internet users, you better be ready to get downvoted by him for the rest of your life. I can give 2 clear cut examples of this:</p>
+<ol>
+<li><a href="https://steemit.com/game/@pickoum/jeud-echec-decouvrir-le-jeu-comment-jouer-regles-de-base" target="_blank" rel="external">https://steemit.com/game/@pickoum/jeud-echec-decouvrir-le-jeu-comment-jouer-regles-de-base</a> </li>
+<li><a href="https://steemit.com/francais/@katyakov/l-art-pour-souffler-l-esprit" target="_blank" rel="external">https://steemit.com/francais/@katyakov/l-art-pour-souffler-l-esprit</a></li>
+</ol>
+<p><a href="https://media.giphy.com/media/5ncqEwQBqUnXq/giphy.gif" target="_blank" rel="external">https://media.giphy.com/media/5ncqEwQBqUnXq/giphy.gif</a></p>
+<p>I am French and try to curate the french articles to help the community grow. Both of these articles are by high reputation users. Both times, I downvoted and explained my reasons in the comments. Both times, I got assaulted by an army of carebears with high reputation that basically called me a horrible person for even trying to downvote something. Oh and of course both my comments got downvoted and are now hidden from plain sight.</p>
+<p>I believe the downvote mechanic to be a very healthy way to curate, unfortunatly the reputation system rendered this mechanic totally useless. The downvote ratio on Steem is almost 0, compared to Reddit where downvotes are commonly in the 20-30% range from what I can remember (reddit removed the ability to see that a few months back).</p>
+<p>I know Steem is still a beta, how could I not when it’s written underneath the logo? It’s normal for the developers to try to implement new things and revert them if it is not working as intended. Except it’s NOT REALLY a beta. There won’t be a reset of the chain when it truly releases (if it ever ‘releases’). People are getting real coins that they can convert to real money. The beta word underneath the logo is just a reminder for all the monkeys on this website that they should accept things that they wouldn’t accept under normal circumstances.</p>
+<p>Why do people use social networks in the first place? For socializing. Today, SteemIt is full of greedy users whose goals are to increase their rewards as fast as possible, not socializing. They play the cooperation game instead of caring about their contents, sadly succesfully. They put some signatures with things like “This post is 100% steem power, please upvote” at the bottom of every single of their articles. They will spam the unmoderated steemit.chat rooms 20 times a day. They will make retarded abuses like the ‘SP distribution games’ that we see on the front page everyday. When I arrived on this website, the quality of the content was far from other social networks, but I hoped it would improve as more users came in. Unfortunatly, the opposite is true. I don’t find myself coming in here much, Reddit or even Facebook is a better source of information for me, because I have no time for all the bullshit I mentioned.</p>
+<h1 id="How-I-would-try-to-solve-it"><a href="#How-I-would-try-to-solve-it" class="headerlink" title="How I would try to solve it"></a>How I would try to solve it</h1><p>I have read about the upcoming economic changes, and I don’t think this is gonna change much. The fact the devs promised they won’t cashout for the first quarter from their personal accounts is a huge PR mistake. By saying that, most people would understand that they are gonna dump everything from other accounts, and from the personal accounts in the next quarter…</p>
+<p>I know everyone believes in decentralization (at least in here), but at this point it’s quite obvious that this won’t work out. If SteemIt corp really wants this website to become mainstream, they need to make use of their power.</p>
+<p><a href="http://66.media.tumblr.com/tumblr_lrzkuoVGIM1qf9buqo1_500.gif" target="_blank" rel="external">http://66.media.tumblr.com/tumblr_lrzkuoVGIM1qf9buqo1_500.gif</a></p>
+<ol>
+<li><p>Add a new action on the blockchain that allows the @steemit account to ban and freeze coins of any user. This will allow to ban all the obvious bot accounts very quickly, as well as put a threat on all users who are trying to break the rules, eventually making them change their mind and play the game normally instead. Frozen coins would also virtually decrease the total supply and increase the value of the coin, so nothing is really lost.</p>
+</li>
+<li><p>Exploits, vote-baits like @steemsports, or high-reputation accounts used to publish somebody’s else articles should be forbidden, and banned if they don’t comply. This will reduce the amount of useless spam and increase the overall quality of the contents.</p>
+</li>
+<li><p>The current registration system is extremely bad for the growth of the network. People cannot register without a facebook/reddit account or else they will need to reveal their phone number. WTF?? This point alone will stop making crypto afficionados from even trying steem. I support a normal registration system, with a normal email, maybe even without email confirmation. Just don’t give them coins on registration, if they want it they gotta earn it. If they make multi accounts and collude to increase their rewards, just use the ban-hammer from 1.</p>
+</li>
+<li><p>There is probably some background to the association between Steem and blocktrades and the button to ‘Buy Steem’, however I feel like most crypto users dislike that. We can buy any crypto on any exchange we prefer, and promoting an exchange (in a disguised way) will by no mean increase the trust in Steem. Just get rid of it and make a page with a listing of all the most popular exchanges in a random order.</p>
+</li>
+<li><p>Monetize with ads. It’s normal for SteemIt corp to want to get some money, I know renting prices in their area are not cheap. But they shouldn’t have to sell their coins and drop the price to achieve it. I would most likely disable by ad-blocker if I knew the funds would help the development of Steem. Also, people on internet are used to ads already, and SteemIt is probably the largest social network who hasn’t implemented ads yet. Are we really in 2016 ?</p>
+</li>
+<li><p>Open Source the chain for REAL. Stop it with the bullshit. If someone copies it and improves upon it, it’s fair game. As long as SteemIt Corp keeps on working hard and solidify their position, there is no way a fork will ever have a greater share the ‘social crypto’ market than Steem.</p>
+</li>
+<li><p>Make the finances of the SteemIt corp public. Users/Investors want to know what they get into. We want to know how many people work full time for steem, and what do they do. If you dump coins on the markets, we also want to know about it. It might not help on the money-making side of things, but it will increase the trust by a lot and will pay off in the long-term.</p>
+</li>
+<li><p>Hire more people, especially on the marketing side of things. Spend some money on SEM, contact other popular crypto websites to get some exposure. It is insane to think that most crypto currency users have no idea what Steem is despite the fact that it is already functional, when you compare it to all the shit ICO coins with fake github dev teams with no real product which are somehow more popular.</p>
+</li>
+<li><p>Create a closed source tool for detecting collusion and upvote networks. Run it at random times and use the ban hammer on any user who passes a threeshold.</p>
+</li>
+</ol>
+<p>I can’t wait for all your worthless rhetorical comments, so please go ahead, I know you want to.</p>
+<p>P.S: GL to my 2 friends @ekitcho and @fabien on their busy endeavors</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;I joined steem in July after reading the article on &lt;a href=&quot;https://www.theguardian.com/technology/2016/jul/12/steem-digital-currency-st
+    
+    </summary>
+    
+    
+      <category term="steem" scheme="http://heimindanger.com/tags/steem/"/>
+    
+      <category term="steemit" scheme="http://heimindanger.com/tags/steemit/"/>
+    
+      <category term="downvote" scheme="http://heimindanger.com/tags/downvote/"/>
+    
+      <category term="goodbye" scheme="http://heimindanger.com/tags/goodbye/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SteemWhales Update | Discover who are currently the best authors and curators</title>
+    <link href="http://heimindanger.com/2016/09/12/steemwhales-update-or-discover-who-are-currently-the-best-authors-and-curators/"/>
+    <id>http://heimindanger.com/2016/09/12/steemwhales-update-or-discover-who-are-currently-the-best-authors-and-curators/</id>
+    <published>2016-09-12T19:53:54.000Z</published>
+    <updated>2017-01-02T12:33:09.674Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="http://steemwhales.com/pic/whale.png" target="_blank" rel="external">http://steemwhales.com/pic/whale.png</a></p>
+<p>I’m not sure exactly who, but at least <em>3 different people</em> requested a feature similar to what I am introducing today.<br>Ranking people is cool, but instead of seeing the total data since the start, we need to be able to see what is <em>trending</em>.</p>
+<h1 id="http-steemwhales-com-trending"><a href="#http-steemwhales-com-trending" class="headerlink" title="http://steemwhales.com/trending/"></a><a href="http://steemwhales.com/trending/" target="_blank" rel="external">http://steemwhales.com/trending/</a></h1><h2 id="What-does-it-do"><a href="#What-does-it-do" class="headerlink" title="What does it do ?"></a>What does it do ?</h2><p>It displays the change of a stat, <em>over the last N days</em>, and you can <strong>sort and search</strong> as usual. Accounts that didn’t exist N days ago are ignored.</p>
+<p>Feel free to change the number of days to anything, currently limited to 50 days (because steemwhales database didn’t exist before)</p>
+<h2 id="Best-Authors"><a href="#Best-Authors" class="headerlink" title="Best Authors"></a>Best Authors</h2><p>I have decided to sort best authors by Posting Rewards. A lot of good authors are very productive such as @ericvancewalton who is writing a whole novel on steemit. This was a good move on his part considering he is the author who cashed the most bucks in the last 30 days. </p>
+<p>If you want to know the author who make the most <em>per post</em>, feel free to sort by ‘Reward per Post’. This should help you find the best reads, and the best posts to upvote - if you are greedy for curation rewards</p>
+<h2 id="Best-Curators"><a href="#Best-Curators" class="headerlink" title="Best Curators"></a><a href="http://steemwhales.com/trending/?p=1&amp;d=7&amp;s=cr" target="_blank" rel="external">Best Curators</a></h2><p>I am using a ‘Curation score’ which is the curation rewards per million vesting shares (MVests) of the user. This <em>should</em> be an accurate scoring system. Most of the top curators seem to be <strong>bots</strong>, with low post counts. It’s fair to assume some accounts with similar scores belong to the same users or simply use the same bot.</p>
+<p>What saddens me though, is that A LOT of users seem not to care about curation. For users with low steem power, it’s okay, they aren’t losing much. I don’t want to put numbers in this post, but a user like <a href="http://steemwhales.com/ben" target="_blank" rel="external">@ben</a> is clearly missing out on hundreds of <strong>daily</strong> steem power because he isn’t curating.</p>
+<h2 id="TRY-IT-http-steemwhales-com-trending"><a href="#TRY-IT-http-steemwhales-com-trending" class="headerlink" title="TRY IT : http://steemwhales.com/trending/"></a>TRY IT : <a href="http://steemwhales.com/trending/" target="_blank" rel="external">http://steemwhales.com/trending/</a></h2><h2 id="More-data-on-this-page"><a href="#More-data-on-this-page" class="headerlink" title="More data on this page ?"></a>More data on this page ?</h2><p>I haven’t included any money-related data in this page, I could do it but I opted out of it because I think it might be intrusive and not that useful overall. If you disagree or if you guys want me to add another meaningful metric, just let me know in the comments.</p>
+<h2 id="Next-update"><a href="#Next-update" class="headerlink" title="Next update"></a>Next update</h2><p>I have more features for SteemWhales I am going to release soon. Such as differenciating between root posts and comments, a monthly graph for user pages, mining rewards, and more that I don’t remember.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;http://steemwhales.com/pic/whale.png&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://steemwhales.com/pic/whale.png&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I’m not sur
+    
+    </summary>
+    
+    
+      <category term="steem" scheme="http://heimindanger.com/tags/steem/"/>
+    
+      <category term="steemit" scheme="http://heimindanger.com/tags/steemit/"/>
+    
+      <category term="whales" scheme="http://heimindanger.com/tags/whales/"/>
+    
+      <category term="stats" scheme="http://heimindanger.com/tags/stats/"/>
+    
+      <category term="trending" scheme="http://heimindanger.com/tags/trending/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Trusted Timestamps | What is it and why STEEM is a very good support for it</title>
+    <link href="http://heimindanger.com/2016/09/12/trusted-timestamps-or-what-is-it-and-why-steem-is-a-very-good-support-for-it/"/>
+    <id>http://heimindanger.com/2016/09/12/trusted-timestamps-or-what-is-it-and-why-steem-is-a-very-good-support-for-it/</id>
+    <published>2016-09-11T22:50:27.000Z</published>
+    <updated>2017-01-02T12:33:09.674Z</updated>
+    
+    <content type="html"><![CDATA[<p>## </p>
+<p><img src="https://ipfs.pics/ipfs/QmYLhh3a1TkLDoE7E9j7wt3oxgSRL7ZR4deLsgy4NtRQfY" alt=""></p>
+<p>Fun Fact: While usually being displayed in a human fasion e.g. 24/08/2016 04:00 PM, in most storage engines the time is actually encoded as the number of milliseconds elapsed since ‘unix epoch’ (Jan 01 1970 00:00 UTC), for simplicity’s sake. <strong>Computers think more rationally about time than us.</strong></p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">new Date().getTime()</div><div class="line">1472047486711 // a timestamp</div></pre></td></tr></table></figure>
+<p>Traditionally on a client/server architecture, the server will record (in a database most likely) and serve back timestamps to the clients. This is how twitter, the BBC, or any traditional website work.</p>
+<p>While this is good enough for normal web browsing, any person who has access to the server hosting the timestamp, will be able to edit and fake it. Therefore these timestamps cannot be trusted. They are not a 100% viable proof.</p>
+<hr>
+<h2 id="Trusted-Timestamps"><a href="#Trusted-Timestamps" class="headerlink" title="Trusted Timestamps"></a>Trusted Timestamps</h2><p>While the idea of prooving the existence of something at a certain date is not new, the currently <a href="http://tools.ietf.org/html/rfc3161" target="_blank" rel="external">most used implementation</a> uses <em>TimeStamping Authorities</em> (TSA). These TSAs are <strong>privately owned, audited companies</strong> and if the technique is implemented correctly, it is cryptographically safe to trust the timestamps. In theory no one can backdate the records.</p>
+<p>But this technique comes at <a href="https://www.digistamp.com/subpage/price/" target="_blank" rel="external">a cost</a>. Some <a href="https://tsa.safecreative.org/" target="_blank" rel="external">nicer TSA</a> will give you <strong>5 free calls</strong> on their api if you are a non-profit. Fortunatly Satoshi came to earth and gave us the blockchain!</p>
+<p>A blockchain is the perfect support for the creation of trusted timestamps, because of their immutability. <strong>Storing a plain hash</strong> of your file on the current block <strong>is enough to prove</strong> that the file existed at moment the block was recorded or earlier, as long as you keep the <em>original copy</em> of the file !. The most popular website for doing that today is <a href="http://www.originstamp.org/" target="_blank" rel="external">http://www.originstamp.org/</a> which uses the most popular cryptocurrency: <strong>Bitcoin</strong>. </p>
+<h2 id="Today’s-uses-of-trusted-timestamps"><a href="#Today’s-uses-of-trusted-timestamps" class="headerlink" title="Today’s uses of trusted timestamps"></a>Today’s uses of trusted timestamps</h2><ul>
+<li>Book, music and patent registration</li>
+<li>Insurance contracts</li>
+<li>Lawsuit settlements</li>
+<li>Medical trials recording</li>
+<li>Patient prescriptions</li>
+<li>Imagery and CCTV</li>
+<li>E-learning certification</li>
+<li>Proof of attendance (security guards, care workers, etc)</li>
+</ul>
+<p>As you can see, it is far from being useless. Actually, our need for trusted timestamps is <strong>growing</strong> all the time. </p>
+<hr>
+<h2 id="Steem-Timestamps"><a href="#Steem-Timestamps" class="headerlink" title="Steem Timestamps"></a>Steem Timestamps</h2><p>While the OriginStamp website is already good, I believe we can have a better system using STEEM. Here is why:</p>
+<ul>
+<li>Publishing data (however short) has a transaction fee on the BTC blockchain</li>
+<li>Because of this, they only publish hashes once a day, therefore timestamps are not trusted until 24 hours</li>
+</ul>
+<p><strong>STEEM</strong> transfers have <strong>no transaction fees</strong>, and it takes <strong>only 4 seconds</strong> maximum to get data added to the blockchain. STEEM is a free TSA in theory.</p>
+<p>In practise we still need to own two accounts that send each other some money with the hash of the file in the memo and some way to quickly verify that a hash exists on the blockchain.</p>
+<p>I have built a simple api for creating and verifying timestamps on the STEEM blockchain. I also made a GUI for it on steemwhales in order to use it easily in the browser, and hash your files automatically in MD5, SHA1 or SHA256. Here are the links:</p>
+<p>Try it now: <a href="http://steemwhales.com/timestamping/" target="_blank" rel="external">http://steemwhales.com/timestamping/</a><br>GitHub: <a href="https://github.com/skzap/steemtime" target="_blank" rel="external">https://github.com/skzap/steemtime</a></p>
+<p>Developers, you can call the timestamping api directly like so:</p>
+<h3 id="Stamping"><a href="#Stamping" class="headerlink" title="Stamping"></a>Stamping</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">curl --data &quot;hash=&lt;your hash here&gt;&quot; http://steemwhales.com:6060/time/request</div></pre></td></tr></table></figure>
+<h3 id="Verifying"><a href="#Verifying" class="headerlink" title="Verifying"></a>Verifying</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">curl --data &quot;hash=&lt;your hash here&gt;&quot; http://steemwhales.com:6060/time/verify</div></pre></td></tr></table></figure>
+<hr>
+<p>I don’t have much hope many steem users will have a big need for this, after all this is still a niche. For those wondering, yes I have a personal use for it. Maybe some people in need for it might stumble upon my post from google in the future though.</p>
+<p>For those wondering, big SteemWhales update coming soon, stay tuned. :)</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;## &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://ipfs.pics/ipfs/QmYLhh3a1TkLDoE7E9j7wt3oxgSRL7ZR4deLsgy4NtRQfY&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Fun Fact: While usually being 
+    
+    </summary>
+    
+    
+      <category term="steemwhales" scheme="http://heimindanger.com/tags/steemwhales/"/>
+    
+      <category term="time" scheme="http://heimindanger.com/tags/time/"/>
+    
+      <category term="trusted" scheme="http://heimindanger.com/tags/trusted/"/>
+    
+      <category term="timestamping" scheme="http://heimindanger.com/tags/timestamping/"/>
+    
+      <category term="steemtime" scheme="http://heimindanger.com/tags/steemtime/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SteemWhales.com Update | Followers stats, Activity Indicator, and a bit of advertising</title>
+    <link href="http://heimindanger.com/2016/08/20/steemwhales-com-update-or-followers-stats-activity-indicator-and-a-bit-of-advertising/"/>
+    <id>http://heimindanger.com/2016/08/20/steemwhales-com-update-or-followers-stats-activity-indicator-and-a-bit-of-advertising/</id>
+    <published>2016-08-20T14:11:06.000Z</published>
+    <updated>2017-01-02T12:33:09.674Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="http://steemwhales.com" target="_blank" rel="external"><img src="http://steemwhales.com/pic/whale.png" alt="http://steemwhales.com/pic/whale.png"></a></p>
+<h2 id="Followers-and-Following"><a href="#Followers-and-Following" class="headerlink" title="Followers and Following"></a>Followers and Following</h2><p>The follow feature got considerably more used by steemians since the update of our profile page last week. Follows are a very important statistic to track for authors, and it was a necessity to add it to SteemWhales.</p>
+<ul>
+<li><strong>Added followers and following counts</strong> to tracked statistics. These numbers will take longer to refresh than other statistics because of the inability to get information for <em>more than 1 username at a time in the follow_api</em> of the blockchain.</li>
+<li><strong>Added a ‘Social’ Graph</strong> on the user page to see the evolution of your followers, following, and reputation.</li>
+</ul>
+<p>Here is the current TOP 50 by followers:</p>
+<table>
+<thead>
+<tr>
+<th>Rank</th>
+<th>Username</th>
+<th>Followers</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>#1</td>
+<td>@dollarvigilante</td>
+<td>2108</td>
+</tr>
+<tr>
+<td>#2</td>
+<td>@dantheman</td>
+<td>1323</td>
+</tr>
+<tr>
+<td>#3</td>
+<td>@larkenrose</td>
+<td>970</td>
+</tr>
+<tr>
+<td>#4</td>
+<td>@lukewearechange</td>
+<td>923</td>
+</tr>
+<tr>
+<td>#5</td>
+<td>@stellabelle</td>
+<td>923</td>
+</tr>
+<tr>
+<td>#6</td>
+<td>@corbettreport</td>
+<td>862</td>
+</tr>
+<tr>
+<td>#7</td>
+<td>@dan</td>
+<td>832</td>
+</tr>
+<tr>
+<td>#8</td>
+<td>@freedomnow</td>
+<td>805</td>
+</tr>
+<tr>
+<td>#9</td>
+<td>@steemitmarket</td>
+<td>787</td>
+</tr>
+<tr>
+<td>#10</td>
+<td>@gavvet</td>
+<td>756</td>
+</tr>
+<tr>
+<td>#11</td>
+<td>@ned</td>
+<td>716</td>
+</tr>
+<tr>
+<td>#12</td>
+<td>@sterlinluxan</td>
+<td>624</td>
+</tr>
+<tr>
+<td>#13</td>
+<td>@cryptoctopus</td>
+<td>623</td>
+</tr>
+<tr>
+<td>#14</td>
+<td>@dragonanarchist</td>
+<td>620</td>
+</tr>
+<tr>
+<td>#15</td>
+<td>@falkvinge</td>
+<td>590</td>
+</tr>
+<tr>
+<td>#16</td>
+<td>@steemlinks</td>
+<td>588</td>
+</tr>
+<tr>
+<td>#17</td>
+<td>@blocktrades</td>
+<td>567</td>
+</tr>
+<tr>
+<td>#18</td>
+<td>@craig-grant</td>
+<td>557</td>
+</tr>
+<tr>
+<td>#19</td>
+<td>@donkeypong</td>
+<td>548</td>
+</tr>
+<tr>
+<td>#20</td>
+<td>@piedpiper</td>
+<td>542</td>
+</tr>
+<tr>
+<td>#21</td>
+<td>@masteryoda</td>
+<td>541</td>
+</tr>
+<tr>
+<td>#22</td>
+<td>@xeroc</td>
+<td>538</td>
+</tr>
+<tr>
+<td>#23</td>
+<td>@roelandp</td>
+<td>526</td>
+</tr>
+<tr>
+<td>#24</td>
+<td>@dragonslayer109</td>
+<td>524</td>
+</tr>
+<tr>
+<td>#25</td>
+<td>@andrarchy</td>
+<td>522</td>
+</tr>
+<tr>
+<td>#26</td>
+<td>@cryptogee</td>
+<td>518</td>
+</tr>
+<tr>
+<td>#27</td>
+<td>@kevinwong</td>
+<td>511</td>
+</tr>
+<tr>
+<td>#28</td>
+<td>@clains</td>
+<td>510</td>
+</tr>
+<tr>
+<td>#29</td>
+<td>@berniesanders</td>
+<td>495</td>
+</tr>
+<tr>
+<td>#30</td>
+<td>@fyrstikken</td>
+<td>492</td>
+</tr>
+<tr>
+<td>#31</td>
+<td>@heiditravels</td>
+<td>479</td>
+</tr>
+<tr>
+<td>#32</td>
+<td>@barrycooper</td>
+<td>474</td>
+</tr>
+<tr>
+<td>#33</td>
+<td>@jamtaylor</td>
+<td>472</td>
+</tr>
+<tr>
+<td>#34</td>
+<td>@tuck-fheman</td>
+<td>471</td>
+</tr>
+<tr>
+<td>#35</td>
+<td>@sirwinchester</td>
+<td>467</td>
+</tr>
+<tr>
+<td>#36</td>
+<td>@complexring</td>
+<td>466</td>
+</tr>
+<tr>
+<td>#37</td>
+<td>@kaylinart</td>
+<td>465</td>
+</tr>
+<tr>
+<td>#38</td>
+<td>@jacor</td>
+<td>453</td>
+</tr>
+<tr>
+<td>#39</td>
+<td>@arhag</td>
+<td>446</td>
+</tr>
+<tr>
+<td>#40</td>
+<td>@pfunk</td>
+<td>443</td>
+</tr>
+<tr>
+<td>#41</td>
+<td>@jesta</td>
+<td>430</td>
+</tr>
+<tr>
+<td>#42</td>
+<td>@smooth</td>
+<td>422</td>
+</tr>
+<tr>
+<td>#43</td>
+<td>@steemed</td>
+<td>417</td>
+</tr>
+<tr>
+<td>#44</td>
+<td>@pressfortruth</td>
+<td>415</td>
+</tr>
+<tr>
+<td>#45</td>
+<td>@infovore</td>
+<td>413</td>
+</tr>
+<tr>
+<td>#46</td>
+<td>@hisnameisolllie</td>
+<td>409</td>
+</tr>
+<tr>
+<td>#47</td>
+<td>@rok-sivante</td>
+<td>407</td>
+</tr>
+<tr>
+<td>#48</td>
+<td>@fairytalelife</td>
+<td>402</td>
+</tr>
+<tr>
+<td>#49</td>
+<td>@anyx</td>
+<td>401</td>
+</tr>
+<tr>
+<td>#50</td>
+<td>@dana-edwards</td>
+<td>401</td>
+</tr>
+<tr>
+<td>…</td>
+<td>…</td>
+<td>…</td>
+</tr>
+<tr>
+<td>#306</td>
+<td>@heimindanger</td>
+<td>89</td>
+</tr>
+</tbody>
+</table>
+<h2 id="Steemians-Activity"><a href="#Steemians-Activity" class="headerlink" title="Steemians Activity"></a>Steemians Activity</h2><p>I added this feature in the rankings yesterday so some of you probably noticed it already. It is now possible to see which accounts are active and their last activity time/date. Every username now has a little icon with a color indicating the activity of the account so you can spot who is active or in vacation in a glance. Hovering the icon with your mouse will display full information.</p>
+<p>This activity detects <em>any activity on the blockchain</em>, including market transactions, power-downs, and what-not.</p>
+<p><img src="https://ipfs.pics/ipfs/QmRT42n16Th7GMaANgdMTtN8pxAH86AGbLRKiyPQ3a7jzE" alt="Activity Feature Preview"></p>
+<ul>
+<li>Green &gt; Last seen active <strong>less than 12 hours</strong> ago</li>
+<li>Red &gt; Inactive for <strong>48 hours or more</strong></li>
+<li>Orange &gt; Otherwise</li>
+</ul>
+<h2 id="About-SteemWhales-and-Steem-Promotion"><a href="#About-SteemWhales-and-Steem-Promotion" class="headerlink" title="About SteemWhales and Steem Promotion"></a>About SteemWhales and Steem Promotion</h2><p>A friend of mine has been running an ad on reddit for SteemWhales.com to prove the effectiveness of his advertising technique to me. <strong>For a low-cost of $5, the ad was displayed 25000 times</strong> on reddit and brought in almost 200 new visitors from diverse cryptocurrencies subreddits. <a href="https://ipfs.pics/ipfs/QmTgx9r4kYiwTBieBhgfaKAQDp2pLLhEzwuJx8ViRVgXni" target="_blank" rel="external">Campaign Stats</a></p>
+<p>I paid him for the succesful campaign and started a new one for the same cost. He gladly accepted the payment in BTC!</p>
+<p>Considering some reddit users might be coming on SteemWhales without knowing about Steem, and because of a lack of text content for google to index, I created a straight-forward <a href="http://steemwhales.com/about/" target="_blank" rel="external">about page</a> that explains steem to potential new adopters. If you have any idea of what to add on this page, feel free to suggest in the comments. I was feeling very uninspired…</p>
+<p>Finally, I improved the design of the user page, and I also sneaked in a little easter egg (free $5 for the person who comments about it first).</p>
+<h3 id="SteemWhales-com-keeps-growing-as-the-number-of-steem-users-grows-Thanks-to-everyone-for-your-daily-visit-and-continuous-support"><a href="#SteemWhales-com-keeps-growing-as-the-number-of-steem-users-grows-Thanks-to-everyone-for-your-daily-visit-and-continuous-support" class="headerlink" title="SteemWhales.com keeps growing as the number of steem users grows. Thanks to everyone for your daily visit and continuous support."></a><a href="http://steemwhales.com" target="_blank" rel="external">SteemWhales.com</a> keeps growing as the number of steem users grows. Thanks to everyone for your daily visit and continuous support.</h3>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;http://steemwhales.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://steemwhales.com/pic/whale.png&quot; alt=&quot;http://steemwhales.c
+    
+    </summary>
+    
+    
+      <category term="steemit" scheme="http://heimindanger.com/tags/steemit/"/>
+    
+      <category term="whales" scheme="http://heimindanger.com/tags/whales/"/>
+    
+      <category term="stats" scheme="http://heimindanger.com/tags/stats/"/>
+    
+      <category term="followers" scheme="http://heimindanger.com/tags/followers/"/>
+    
+      <category term="rankings" scheme="http://heimindanger.com/tags/rankings/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Introducing The First Steem Dollars Lottery - Only $0.01 SBD Per Ticket!</title>
+    <link href="http://heimindanger.com/2016/08/16/introducing-the-first-steem-dollars-lottery-only-usd0-01-sbd-per-ticket/"/>
+    <id>http://heimindanger.com/2016/08/16/introducing-the-first-steem-dollars-lottery-only-usd0-01-sbd-per-ticket/</id>
+    <published>2016-08-16T17:09:30.000Z</published>
+    <updated>2017-01-02T12:33:09.674Z</updated>
+    
+    <content type="html"><![CDATA[<p>Most of my followers would probably expect me to post a SteemWhales update today, but it is not the case. Instead, I want to present a new project that @blueorgy and I have been working on for the past few days: an automated lottery for steem.</p>
+<h1 id="Introducing-http-steemloto-com"><a href="#Introducing-http-steemloto-com" class="headerlink" title="Introducing http://steemloto.com!"></a>Introducing <a href="http://steemloto.com!" target="_blank" rel="external">http://steemloto.com!</a></h1><center><h1><a href="https://ipfs.pics/ipfs/QmVJaRKJQQ1E5jK4f5zCPgMK3npJq1rhR6DG2HAGt3L71N" target="_blank" rel="external">https://ipfs.pics/ipfs/QmVJaRKJQQ1E5jK4f5zCPgMK3npJq1rhR6DG2HAGt3L71N</a></h1></center>
+
+<p><em>The story behind this project:</em> A bit earlier this week, I was chilling on the steemit.chat, and updated to the new formula for reputation on steem whales. This didn’t deserve a full update post, so I decided to just let people know about it in the general chat. Following the update user @drinkzya had reached out to me about his idea to make a true gambling website for steem. A gambling bot had already existed, @steemdice1 (you can see me playing once, winning, and quitting in the transfer history), but it’s a simple dice game…. @drinkzya very quickly hyped me into making this more then just an idea, but into a reality. A few hours later, I had a simple concept bot that sold tickets, and picked a random unique winner after 5 minutes.</p>
+<p>The next day I was on steemit.chat again, helping out @blueorgy with his reputation formula and calculations for <a href="http://steem.cool" target="_blank" rel="external">http://steem.cool</a>, and after a friendly chat I asked him his opinion about what I had coded earlier. He instantly fell in love with the idea and proposed to help. Who am I to refuse?</p>
+<p>Two days later @blueorgy delivered one very smooth design for the website and insight into the project. We then continued to create a Beta version for some more serious testing alongside adding many features that we believe will make this steem lottery a great success.</p>
+<p><em>This is what we ended up with: <a href="http://steemloto.com!" target="_blank" rel="external">http://steemloto.com!</a></em></p>
+<hr>
+
+<h2 id="How-To-Play"><a href="#How-To-Play" class="headerlink" title="How To Play"></a>How To Play</h2><p><a href="http://steemloto.com/images/transfer.gif" target="_blank" rel="external">http://steemloto.com/images/transfer.gif</a> </p>
+<p><em>Advanced</em></p>
+<ul>
+<li>Transfer SBD (only) to @steembingo for the 10MIN Lottery</li>
+<li>Transfer SBD (only) to @steemloto for the 24HOUR Lottery</li>
+<li>1 Ticket is .01 STEEM DOLLARS</li>
+</ul>
+<p><em>Beginners</em></p>
+<ul>
+<li>Navigate to your Wallet (found on any of your profile pages - ex: Blog)</li>
+<li>Now next to your current STEEM DOLLAR account balance hit the little down arrow </li>
+<li>Select Transfer</li>
+<li>In the To field you will enter either @steembingo (for the 10MIN Lottery) or @steemloto (for the 24HOUR Lottery)</li>
+<li>Now fill in the amount of tickets you would like to buy (1 Ticket is .01 STEEM DOLLARS)</li>
+<li>No Memo is required but you can alwasy use one for reference</li>
+<li>Hit Transfer and you’re all set! You will see you tickets displayed on the public table and see the Jackpot rise</li>
+<li>Don’t gamble what you can’t afford to lose</li>
+</ul>
+<hr>
+
+<h2 id="Lottery-Features-amp-Information"><a href="#Lottery-Features-amp-Information" class="headerlink" title="Lottery Features &amp; Information"></a>Lottery Features &amp; Information</h2><p>Remember: <em>PLEASE DON’T GAMBLE WHAT YOU CAN’T AFFORD TO LOSE!</em></p>
+<h3 id="Automated-Payouts-and-Posting"><a href="#Automated-Payouts-and-Posting" class="headerlink" title="Automated Payouts and Posting"></a>Automated Payouts and Posting</h3><p>Our bot will pay out winners instanteneously after drawing the winning ticket. Additionally the daily lottery winner will be announced by the bot in a steemit post. <em>The SBD rewards for these daily posts will be reinjected into the next day’s lottery as a bonus!</em></p>
+<h3 id="1-Ticket-0-01-SBD-Buy-as-many-as-you-want"><a href="#1-Ticket-0-01-SBD-Buy-as-many-as-you-want" class="headerlink" title="1 Ticket = $0.01 SBD | Buy as many as you want"></a>1 Ticket = $0.01 SBD | Buy as many as you want</h3><p>We wanted anyone to be able to play, and play as much as they want. You can enter the lottery for as little as 1 cent.</p>
+<h3 id="Two-different-lotteries"><a href="#Two-different-lotteries" class="headerlink" title="Two different lotteries"></a>Two different lotteries</h3><p>SteemLoto isn’t only one lottery, it’s two!</p>
+<ul>
+<li>@steemloto pays out every 24 hours. This allows for users in all timezones to play &amp; potentially much <em>Bigger Payouts!*</em></li>
+<li>@steembingo pays out every 10 minutes. A limited time quick lottery where timing is everything.</li>
+</ul>
+<h3 id="Listing-of-ticket-holders-on-website"><a href="#Listing-of-ticket-holders-on-website" class="headerlink" title="Listing of ticket holders on website"></a>Listing of ticket holders on website</h3><p>If you do end up purchasing tickets for either lottery, your username and total purchased tickets will display on <a href="http://steemloto.com" target="_blank" rel="external">http://steemloto.com</a> after a few seconds. You can also see other competitors and how much they are waging.</p>
+<h3 id="See-winners-on-the-website"><a href="#See-winners-on-the-website" class="headerlink" title="See winners on the website"></a>See winners on the website</h3><p>Previous lottery winners are displayed <a href="http://steemloto.com/PastWinners" target="_blank" rel="external">here</a> on the website. You can see who won, when, and for how much.</p>
+<h3 id="Security-of-your-funds"><a href="#Security-of-your-funds" class="headerlink" title="Security of your funds"></a>Security of your funds</h3><p>The bot processing the payouts and holding the players funds is running on a separate server than the website. Think of it a bit like a witness node.</p>
+<h3 id="Cryptographically-secure-pseudorandom-number-generator"><a href="#Cryptographically-secure-pseudorandom-number-generator" class="headerlink" title="Cryptographically secure pseudorandom number generator"></a>Cryptographically secure pseudorandom number generator</h3><p>A cryptographically secure number random generator, as you might use for generating encryption keys, works by gathering entropy - that is, unpredictable input - from a source which other people can’t observe.</p>
+<h3 id="Payout-Fee-is-set-to-0-5"><a href="#Payout-Fee-is-set-to-0-5" class="headerlink" title="Payout Fee is set to 0.5%"></a>Payout Fee is set to 0.5%</h3><p>Because there is currently no competition, this number was chosen randomly. As the lottery grows we will be lowering this rate in order to maximize winner payouts!</p>
+<hr>
+
+<p>Enjoy!<br>And Again: <em>PLEASE DON’T GAMBLE WHAT YOU CAN’T AFFORD TO LOSE!</em><br>To contact us, we have a #steemloto channel on steemit.chat.</p>
+<p>P.S: BIG Thanks to @drinkzya for the idea, motivation, and to all private testers, @clement, @jamtaylor, @repholder, @french.fyde, @coldbolt, @repholder, @lukestokes for the feedback.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Most of my followers would probably expect me to post a SteemWhales update today, but it is not the case. Instead, I want to present a ne
+    
+    </summary>
+    
+    
+      <category term="steemit" scheme="http://heimindanger.com/tags/steemit/"/>
+    
+      <category term="steemloto" scheme="http://heimindanger.com/tags/steemloto/"/>
+    
+      <category term="lottery" scheme="http://heimindanger.com/tags/lottery/"/>
+    
+      <category term="money" scheme="http://heimindanger.com/tags/money/"/>
+    
+      <category term="gambling" scheme="http://heimindanger.com/tags/gambling/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SteemWhales Update! Reputation and steem power withdrawal</title>
+    <link href="http://heimindanger.com/2016/08/03/steemwhales-update-reputation-and-steem-power-withdrawal/"/>
+    <id>http://heimindanger.com/2016/08/03/steemwhales-update-reputation-and-steem-power-withdrawal/</id>
+    <published>2016-08-03T02:14:24.000Z</published>
+    <updated>2017-01-02T12:33:09.674Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="http://steemwhales.com" target="_blank" rel="external"><img src="http://steemwhales.com/whale.png" title="STEEMWHALES.COM"></a></p>
+<h2 id="1-You-can-now-see-who-is-powering-down-in-a-glance"><a href="#1-You-can-now-see-who-is-powering-down-in-a-glance" class="headerlink" title="1- You can now see who is powering down in a glance"></a>1- You can now see who is powering down in a glance</h2><p>I only saw <a href="https://steemit.com/steem/@bitcoiner/steemdown-com-which-whales-are-powering-down" target="_blank" rel="external">this post</a> today. And indeed, we need to know who is powering down, so I added this feature on steem whales, visualized by a little <strong>piggy bank icon if a user is powering down</strong>. If you put your cursor on it, it will tell you <strong>how much steem is being powered down and when</strong>.</p>
+<h2 id="2-Reputation-is-here"><a href="#2-Reputation-is-here" class="headerlink" title="2- Reputation is here"></a>2- Reputation is here</h2><p>For those who don’t know yet, every account on steem now has a reputation. It was so very logical to add it to steem whales, as it is obviously something we want to sort by. <strong>Steem Whales displays your reputation more accurately</strong> (with 2 decimals), this way you know how far you are from the next step.</p>
+<p>However, the value for the reputation returned by the rpc api is very weird for some users (namely 7454983988075524000). These users even show up as reputation (11) on steemit.com. See <a href="https://steemit.com/@aaron2k10/posts" target="_blank" rel="external">@aaron2k10</a> as an example. These users are ignored on steem whales, and will be considered as reputation 1, for now. Some people told me on steemit.chat that developers are aware of the problem, and it should get fixed soon, so no reason to be alarmed.</p>
+<center><br><a href="https://ipfs.pics/ipfs/QmfXMLD3CBkaqUoxjEndFvkMHZkcWh7cGQt8H65MRi7dSD" target="_blank" rel="external">https://ipfs.pics/ipfs/QmfXMLD3CBkaqUoxjEndFvkMHZkcWh7cGQt8H65MRi7dSD</a><br>Reputation Top 20<br></center>
+
+<p>Congratulations on @stellabelle for being the only account at 9 reputation, even though it probably won’t last very long, with active authors like @tuck-fheman very close by at 8.92.</p>
+<h1 id="Check-NEW-features-NOW-on-STEEMWHALES-COM"><a href="#Check-NEW-features-NOW-on-STEEMWHALES-COM" class="headerlink" title="Check NEW features NOW on STEEMWHALES.COM"></a>Check NEW features NOW on <a href="http://steemwhales.com" target="_blank" rel="external">STEEMWHALES.COM</a></h1><p>Or <a href="https://steemit.com/whales/@heimindanger/steemwhales-update-evolution-and-distribution" target="_blank" rel="external">read yesterday’s update</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;http://steemwhales.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://steemwhales.com/whale.png&quot; title=&quot;STEEMWHALES.COM&quot;&gt;&lt;/a&gt;&lt;
+    
+    </summary>
+    
+    
+      <category term="steem" scheme="http://heimindanger.com/tags/steem/"/>
+    
+      <category term="steemit" scheme="http://heimindanger.com/tags/steemit/"/>
+    
+      <category term="whales" scheme="http://heimindanger.com/tags/whales/"/>
+    
+      <category term="stats" scheme="http://heimindanger.com/tags/stats/"/>
+    
+      <category term="reputation" scheme="http://heimindanger.com/tags/reputation/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SteemWhales Update: Evolution and Distribution</title>
+    <link href="http://heimindanger.com/2016/08/01/steemwhales-update-evolution-and-distribution/"/>
+    <id>http://heimindanger.com/2016/08/01/steemwhales-update-evolution-and-distribution/</id>
+    <published>2016-08-01T20:59:00.000Z</published>
+    <updated>2017-01-02T12:33:09.674Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="NEW-ON-STEEM-WHALES"><a href="#NEW-ON-STEEM-WHALES" class="headerlink" title="NEW ON STEEM WHALES"></a>NEW ON <a href="http://steemwhales.com" target="_blank" rel="external">STEEM WHALES</a></h1><h2 id="Evolution-of-supply"><a href="#Evolution-of-supply" class="headerlink" title="Evolution of supply"></a>Evolution of supply</h2><p>You can now see how the total of a metric changes through time.<br>Example for SBD:<br><a href="https://ipfs.pics/ipfs/QmdhijZNeWGTSud5ArdmR9RSRHfkkgCqxSmHpDUxx141Bs" target="_blank" rel="external">https://ipfs.pics/ipfs/QmdhijZNeWGTSud5ArdmR9RSRHfkkgCqxSmHpDUxx141Bs</a><br><em>That’s right, it’s growing</em></p>
+<h2 id="Distribution"><a href="#Distribution" class="headerlink" title="Distribution"></a>Distribution</h2><p>You can now see the distribution of a metric between the top 1%, 1-10% , and 10-100%.<br>Example for net $ estimated value<br><a href="https://ipfs.pics/ipfs/QmSbzJqiECYqoWDR4F9UNWZ5tVU1fMr1LG8D9k9ecRZxxX" target="_blank" rel="external">https://ipfs.pics/ipfs/QmSbzJqiECYqoWDR4F9UNWZ5tVU1fMr1LG8D9k9ecRZxxX</a><br><em>Welcome to the real world</em></p>
+<h2 id="Design"><a href="#Design" class="headerlink" title="Design"></a>Design</h2><ul>
+<li>The website now has a menu</li>
+<li>Added search in menu to go directly to a user profile</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;NEW-ON-STEEM-WHALES&quot;&gt;&lt;a href=&quot;#NEW-ON-STEEM-WHALES&quot; class=&quot;headerlink&quot; title=&quot;NEW ON STEEM WHALES&quot;&gt;&lt;/a&gt;NEW ON &lt;a href=&quot;http://steemw
+    
+    </summary>
+    
+    
+      <category term="steem" scheme="http://heimindanger.com/tags/steem/"/>
+    
+      <category term="steemit" scheme="http://heimindanger.com/tags/steemit/"/>
+    
+      <category term="whales" scheme="http://heimindanger.com/tags/whales/"/>
+    
+      <category term="stats" scheme="http://heimindanger.com/tags/stats/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SteemWhales.com - History, graphs, and daily changes on your personal stats page</title>
+    <link href="http://heimindanger.com/2016/07/21/steemwhales-com-history-graphs-and-daily-changes-on-your-personal-stats-page/"/>
+    <id>http://heimindanger.com/2016/07/21/steemwhales-com-history-graphs-and-daily-changes-on-your-personal-stats-page/</id>
+    <published>2016-07-21T20:10:45.000Z</published>
+    <updated>2017-01-02T12:33:09.674Z</updated>
+    
+    <content type="html"><![CDATA[<p>Two days ago I was <a href="https://steemit.com/steemit/@heimindanger/introducing-steemwhales-com-a-rankings-website-for-steemians" target="_blank" rel="external">introducing Steem Whales</a>. The post received an astounding number of upvotes, and propulsed me from #~5500 to #1776 on my own website. Thanks to all upvoters. $300 is actually a respectable amount of money for me right now, but I think the right choice now for me is to convert ALL OF IT into STEEM POWER. Enough about me, let’s talk about the website.</p>
+<p>Now that we can sort steemians by anything, we need to know how things evolve through time. Now that we know who is on top or rock bottom, we need to know who is climbing and who is falling. As a consequence, <a href="http://steemwhales.com" target="_blank" rel="external">SteemWhales.com</a> now saves all the user stats every day, and gives public access to it, without anyone needing to <em>replay</em> the blockchain.</p>
+<h2 id="History-graph-and-daily-changes-stats"><a href="#History-graph-and-daily-changes-stats" class="headerlink" title="History graph, and daily changes stats"></a>History graph, and daily changes stats</h2><p><img src="https://ipfs.pics/ipfs/QmXcYosJtwQjen73PkrCgYR5fsH2XXrbciVqjiowEisXMA" alt="whale page preview"></p>
+<p>Consequently, I made individual pages that display and graph your stats through time! To see it, either you click a username from the list, or you can go directly to the url: <a href="http://steemwhales.com/heimindanger" target="_blank" rel="external">http://steemwhales.com/heimindanger</a> (see the nice jump yesterday). You can disable certain stats on the graphs by clicking on the legend, if you want to see more precisely. </p>
+<p>I also believe a chart is not enough, sometimes data is easier to visualize in a table. So I just did that also, where you can see the daily changes on any stat. For any money type stats, I opted to display each daily change as a percentage increase, because that’s how I like to see my money change, and it’s probably the same for you if you are into cryptos.</p>
+<p>As you can see, I have kept myself quite busy past few days. I’m usually not like that. And that’s purely because of steem. I learnt about steem last week thanks to the +1000% market capitalization. I tried to read the white paper entirely, registered, lurked a lot of posts, tried a couple of shit posts/comments to figure things out, and now I’m hooked. I am really curious how it will turn out. Get hacked? Hyperinflation until 1STEEM = $0.01? Someone wins the game, gets all the coins and never upvotes anyone else but him? Or maybe just turn out as advertised (by the community) and become the new mainstream social network? Who knows.</p>
+<h2 id="In-the-future-on-SteemWhales-com"><a href="#In-the-future-on-SteemWhales-com" class="headerlink" title="In the future on SteemWhales.com"></a>In the future on <a href="http://steemwhales.com" target="_blank" rel="external">SteemWhales.com</a></h2><p>There is one thing I would like to collect more data on, and that is the upvotes. I want to know who upvotes who and how often. I want to see which users/bots are friends with each other and potentially colluding or auto upvoting each other. </p>
+<p>Another thing that disturbs me also is the curation rewards. Sorting by it right now, will show you some very big whales, not the best curators. That’s because curation rewards increase as your steem power increase. I am unsure how to do it yet, but I want to be able to find the <em>technically</em> best curators.</p>
+<p>When Steem gets bigger and tags see more usage, I will make a feature to see statistics for a whole tag. Something kinda similar to <a href="http://redditmetrics.com/" target="_blank" rel="external">reddit metrics</a>. I think it is a bit a shame how tags work right now, and how we have no way to save our favorite tags. Tags even disappear after a while right now, and you can’t access them without typing the url directly or finding an old post with this tag. Well I guess that’s why there’s a BETA sign next to the logo.</p>
+<p>My previous post was short and straight to the point. And so were the comments. This time I went through my full train of thought for <a href="http://steemwhales.com" target="_blank" rel="external">Steem Whales</a>. I’m crossing my fingers for it to reflect in the comments and that I can get dozens of contructive feedback or new feature ideas, so that we can all improve the steem ecosystem hand-in-hand.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Two days ago I was &lt;a href=&quot;https://steemit.com/steemit/@heimindanger/introducing-steemwhales-com-a-rankings-website-for-steemians&quot; targe
+    
+    </summary>
+    
+    
+      <category term="steem" scheme="http://heimindanger.com/tags/steem/"/>
+    
+      <category term="steemit" scheme="http://heimindanger.com/tags/steemit/"/>
+    
+      <category term="whales" scheme="http://heimindanger.com/tags/whales/"/>
+    
+      <category term="stats" scheme="http://heimindanger.com/tags/stats/"/>
+    
+      <category term="steemstats" scheme="http://heimindanger.com/tags/steemstats/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Introducing SteemWhales.com - A rankings website for Steemians</title>
+    <link href="http://heimindanger.com/2016/07/20/introducing-steemwhales-com-a-rankings-website-for-steemians/"/>
+    <id>http://heimindanger.com/2016/07/20/introducing-steemwhales-com-a-rankings-website-for-steemians/</id>
+    <published>2016-07-20T02:04:42.000Z</published>
+    <updated>2017-01-02T12:33:09.674Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="Do-you-want-to-know-who-are-the-leaders-of-the-steem-community"><a href="#Do-you-want-to-know-who-are-the-leaders-of-the-steem-community" class="headerlink" title="Do you want to know who are the leaders of the steem community?"></a>Do you want to know who are the leaders of the steem community?</h3><h3 id="Do-you-want-to-know-how-you-rank"><a href="#Do-you-want-to-know-how-you-rank" class="headerlink" title="Do you want to know how you rank?"></a>Do you want to know how you rank?</h3><h2 id="YOU-NOW-CAN-ON-STEEM-WHALES"><a href="#YOU-NOW-CAN-ON-STEEM-WHALES" class="headerlink" title="YOU NOW CAN ON STEEM WHALES"></a>YOU NOW CAN ON <a href="http://steemwhales.com" target="_blank" rel="external">STEEM WHALES</a></h2><p><img src="http://steemwhales.com/whale.png" alt="Steem Whales Logo"></p>
+<h3 id="Features"><a href="#Features" class="headerlink" title="Features:"></a>Features:</h3><ul>
+<li>Sort by post count, posting rewards, curation rewards, any type of balance, or of course by estimated value (default sort).</li>
+<li>Search by steem name: useful for small fishes like me.</li>
+<li>Automatically updating the STEEM price and vesting information. Required to calculate STEEM Power and estimated value.</li>
+<li>Displays well on most devices. Landscape mode recommended on small phones maybe.</li>
+</ul>
+<p>If your account is not yet added on the website, search for the name and it should get added relatively quickly. Also, the website automatically add upvoters from trending topics. You can see how many steemians are currently tracked at the bottom of the website.</p>
+<p>I am open to any suggestion, feel free to comment.</p>
+<p>Special thanks to @svk for his tool <a href="https://steemit.com/steem/@svk/steem-rpc-library-for-javascript-steem-rpc" target="_blank" rel="external">steem-rpc-library-for-javascript-steem-rpc</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;Do-you-want-to-know-who-are-the-leaders-of-the-steem-community&quot;&gt;&lt;a href=&quot;#Do-you-want-to-know-who-are-the-leaders-of-the-steem-commu
+    
+    </summary>
+    
+    
+      <category term="steem" scheme="http://heimindanger.com/tags/steem/"/>
+    
+      <category term="steemit" scheme="http://heimindanger.com/tags/steemit/"/>
+    
+      <category term="whales" scheme="http://heimindanger.com/tags/whales/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>do what you want cause you love it</title>
+    <link href="http://heimindanger.com/2016/07/18/do-what-you-want-cause-you-love-it/"/>
+    <id>http://heimindanger.com/2016/07/18/do-what-you-want-cause-you-love-it/</id>
+    <published>2016-07-18T17:25:21.000Z</published>
+    <updated>2017-01-02T12:33:09.674Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://www.youtube.com/watch?v=eEuBMoH_irE" target="_blank" rel="external">https://www.youtube.com/watch?v=eEuBMoH_irE</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=eEuBMoH_irE&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://www.youtube.com/watch?v=eEuBMoH_irE&lt;/a&gt;&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="video" scheme="http://heimindanger.com/tags/video/"/>
+    
+      <category term="dance" scheme="http://heimindanger.com/tags/dance/"/>
+    
+      <category term="dancing" scheme="http://heimindanger.com/tags/dancing/"/>
+    
+      <category term="shuffling" scheme="http://heimindanger.com/tags/shuffling/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Few questions about how rewards work on steemit</title>
+    <link href="http://heimindanger.com/2016/07/15/few-questions-about-how-rewards-work-on-steemit/"/>
+    <id>http://heimindanger.com/2016/07/15/few-questions-about-how-rewards-work-on-steemit/</id>
+    <published>2016-07-15T19:50:48.000Z</published>
+    <updated>2017-01-02T12:33:09.674Z</updated>
+    
+    <content type="html"><![CDATA[<html><br><p>I’ve been using steemit for a couple days now, I’ve been trying to upvote and post some content, but I have a few questions that I need answered.</p><br><ol><br>  <li>Is there any reward for downvoting a bad content? My voting power goes down when I do, and if I’m not going to get anything from doing it, why should I even bother?</li><br>  <li>How does the rewards for upvoting work exactly? Do I get rewarded more for upvoting before others?</li><br>  <li>If the same person (same SP) upvotes an article that is 10 characters, and another that is 100 characters, would it give the same reward to the two content creators ?</li><br></ol><br><p>I have made a few searches but couldn’t find detailed information on these subjects.</p><br><p>Thank you in advance for possible answers.</p><br></html>]]></content>
+    
+    <summary type="html">
+    
+      &lt;html&gt;&lt;br&gt;&lt;p&gt;I’ve been using steemit for a couple days now, I’ve been trying to upvote and post some content, but I have a few questions tha
+    
+    </summary>
+    
+    
+      <category term="steem" scheme="http://heimindanger.com/tags/steem/"/>
+    
+      <category term="steemit" scheme="http://heimindanger.com/tags/steemit/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>I MONSTER - Daydream In Blue</title>
+    <link href="http://heimindanger.com/2016/07/15/i-monster-daydream-in-blue/"/>
+    <id>http://heimindanger.com/2016/07/15/i-monster-daydream-in-blue/</id>
+    <published>2016-07-15T16:35:42.000Z</published>
+    <updated>2017-01-02T12:33:09.678Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://www.youtube.com/watch?v=BhB6Lb7_kN8" target="_blank" rel="external">https://www.youtube.com/watch?v=BhB6Lb7_kN8</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=BhB6Lb7_kN8&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://www.youtube.com/watch?v=BhB6Lb7_kN8&lt;/a&gt;&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="music" scheme="http://heimindanger.com/tags/music/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Magic Sword - Sword Of Truth</title>
+    <link href="http://heimindanger.com/2016/07/14/magic-sword-sword-of-truth/"/>
+    <id>http://heimindanger.com/2016/07/14/magic-sword-sword-of-truth/</id>
+    <published>2016-07-14T00:16:21.000Z</published>
+    <updated>2017-01-02T12:33:09.678Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://www.youtube.com/watch?v=Nt2qgY31ziE" target="_blank" rel="external">https://www.youtube.com/watch?v=Nt2qgY31ziE</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Nt2qgY31ziE&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://www.youtube.com/watch?v=Nt2qgY31ziE&lt;/a&gt;&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="music" scheme="http://heimindanger.com/tags/music/"/>
+    
+  </entry>
+  
+</feed>

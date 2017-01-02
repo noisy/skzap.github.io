@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  
+  <title>Trusted Timestamps | What is it and why STEEM is a very good support for it | Heimindanger&#39;s Blog</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description" content="## 
+
+Fun Fact: While usually being displayed in a human fasion e.g. 24/08/2016 04:00 PM, in most storage engines the time is actually encoded as the number of milliseconds elapsed since ‘unix epoch’ (">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Trusted Timestamps | What is it and why STEEM is a very good support for it">
+<meta property="og:url" content="http://heimindanger.com/2016/09/12/trusted-timestamps-or-what-is-it-and-why-steem-is-a-very-good-support-for-it/index.html">
+<meta property="og:site_name" content="Heimindanger's Blog">
+<meta property="og:description" content="## 
+
+Fun Fact: While usually being displayed in a human fasion e.g. 24/08/2016 04:00 PM, in most storage engines the time is actually encoded as the number of milliseconds elapsed since ‘unix epoch’ (">
+<meta property="og:image" content="https://ipfs.pics/ipfs/QmYLhh3a1TkLDoE7E9j7wt3oxgSRL7ZR4deLsgy4NtRQfY">
+<meta property="og:updated_time" content="2017-01-02T12:33:09.674Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Trusted Timestamps | What is it and why STEEM is a very good support for it">
+<meta name="twitter:description" content="## 
+
+Fun Fact: While usually being displayed in a human fasion e.g. 24/08/2016 04:00 PM, in most storage engines the time is actually encoded as the number of milliseconds elapsed since ‘unix epoch’ (">
+<meta name="twitter:image" content="https://ipfs.pics/ipfs/QmYLhh3a1TkLDoE7E9j7wt3oxgSRL7ZR4deLsgy4NtRQfY">
+  
+    <link rel="alternate" href="/atom.xml" title="Heimindanger&#39;s Blog" type="application/atom+xml">
+  
+  
+    <link rel="icon" href="/favicon.png">
+  
+  
+    <link href="//fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet" type="text/css">
+  
+  <link rel="stylesheet" href="/css/style.css">
+  
+
+</head>
+
+<body>
+  <div id="container">
+    <div id="wrap">
+      <header id="header">
+  <div id="banner"></div>
+  <div id="header-outer" class="outer">
+    <div id="header-title" class="inner">
+      <h1 id="logo-wrap">
+        <a href="/" id="logo">Heimindanger&#39;s Blog</a>
+      </h1>
+      
+    </div>
+    <div id="header-inner" class="inner">
+      <nav id="main-nav">
+        <a id="main-nav-toggle" class="nav-icon"></a>
+        
+          <a class="main-nav-link" href="/">Home</a>
+        
+          <a class="main-nav-link" href="/archives">Archives</a>
+        
+      </nav>
+      <nav id="sub-nav">
+        
+          <a id="nav-rss-link" class="nav-icon" href="/atom.xml" title="RSS Feed"></a>
+        
+        <a id="nav-search-btn" class="nav-icon" title="Search"></a>
+      </nav>
+      <div id="search-form-wrap">
+        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" results="0" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="http://heimindanger.com"></form>
+      </div>
+    </div>
+  </div>
+</header>
+      <div class="outer">
+        <section id="main"><article id="post-trusted-timestamps-or-what-is-it-and-why-steem-is-a-very-good-support-for-it" class="article article-type-post" itemscope itemprop="blogPost">
+  <div class="article-meta">
+    <a href="/2016/09/12/trusted-timestamps-or-what-is-it-and-why-steem-is-a-very-good-support-for-it/" class="article-date">
+  <time datetime="2016-09-11T22:50:27.000Z" itemprop="datePublished">2016-09-12</time>
+</a>
+    
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
+  
+    <h1 class="article-title" itemprop="name">
+      Trusted Timestamps | What is it and why STEEM is a very good support for it
+    </h1>
+  
+
+      </header>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <p>## </p>
+<p><img src="https://ipfs.pics/ipfs/QmYLhh3a1TkLDoE7E9j7wt3oxgSRL7ZR4deLsgy4NtRQfY" alt=""></p>
+<p>Fun Fact: While usually being displayed in a human fasion e.g. 24/08/2016 04:00 PM, in most storage engines the time is actually encoded as the number of milliseconds elapsed since ‘unix epoch’ (Jan 01 1970 00:00 UTC), for simplicity’s sake. <strong>Computers think more rationally about time than us.</strong></p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">new Date().getTime()</div><div class="line">1472047486711 // a timestamp</div></pre></td></tr></table></figure>
+<p>Traditionally on a client/server architecture, the server will record (in a database most likely) and serve back timestamps to the clients. This is how twitter, the BBC, or any traditional website work.</p>
+<p>While this is good enough for normal web browsing, any person who has access to the server hosting the timestamp, will be able to edit and fake it. Therefore these timestamps cannot be trusted. They are not a 100% viable proof.</p>
+<hr>
+<h2 id="Trusted-Timestamps"><a href="#Trusted-Timestamps" class="headerlink" title="Trusted Timestamps"></a>Trusted Timestamps</h2><p>While the idea of prooving the existence of something at a certain date is not new, the currently <a href="http://tools.ietf.org/html/rfc3161" target="_blank" rel="external">most used implementation</a> uses <em>TimeStamping Authorities</em> (TSA). These TSAs are <strong>privately owned, audited companies</strong> and if the technique is implemented correctly, it is cryptographically safe to trust the timestamps. In theory no one can backdate the records.</p>
+<p>But this technique comes at <a href="https://www.digistamp.com/subpage/price/" target="_blank" rel="external">a cost</a>. Some <a href="https://tsa.safecreative.org/" target="_blank" rel="external">nicer TSA</a> will give you <strong>5 free calls</strong> on their api if you are a non-profit. Fortunatly Satoshi came to earth and gave us the blockchain!</p>
+<p>A blockchain is the perfect support for the creation of trusted timestamps, because of their immutability. <strong>Storing a plain hash</strong> of your file on the current block <strong>is enough to prove</strong> that the file existed at moment the block was recorded or earlier, as long as you keep the <em>original copy</em> of the file !. The most popular website for doing that today is <a href="http://www.originstamp.org/" target="_blank" rel="external">http://www.originstamp.org/</a> which uses the most popular cryptocurrency: <strong>Bitcoin</strong>. </p>
+<h2 id="Today’s-uses-of-trusted-timestamps"><a href="#Today’s-uses-of-trusted-timestamps" class="headerlink" title="Today’s uses of trusted timestamps"></a>Today’s uses of trusted timestamps</h2><ul>
+<li>Book, music and patent registration</li>
+<li>Insurance contracts</li>
+<li>Lawsuit settlements</li>
+<li>Medical trials recording</li>
+<li>Patient prescriptions</li>
+<li>Imagery and CCTV</li>
+<li>E-learning certification</li>
+<li>Proof of attendance (security guards, care workers, etc)</li>
+</ul>
+<p>As you can see, it is far from being useless. Actually, our need for trusted timestamps is <strong>growing</strong> all the time. </p>
+<hr>
+<h2 id="Steem-Timestamps"><a href="#Steem-Timestamps" class="headerlink" title="Steem Timestamps"></a>Steem Timestamps</h2><p>While the OriginStamp website is already good, I believe we can have a better system using STEEM. Here is why:</p>
+<ul>
+<li>Publishing data (however short) has a transaction fee on the BTC blockchain</li>
+<li>Because of this, they only publish hashes once a day, therefore timestamps are not trusted until 24 hours</li>
+</ul>
+<p><strong>STEEM</strong> transfers have <strong>no transaction fees</strong>, and it takes <strong>only 4 seconds</strong> maximum to get data added to the blockchain. STEEM is a free TSA in theory.</p>
+<p>In practise we still need to own two accounts that send each other some money with the hash of the file in the memo and some way to quickly verify that a hash exists on the blockchain.</p>
+<p>I have built a simple api for creating and verifying timestamps on the STEEM blockchain. I also made a GUI for it on steemwhales in order to use it easily in the browser, and hash your files automatically in MD5, SHA1 or SHA256. Here are the links:</p>
+<p>Try it now: <a href="http://steemwhales.com/timestamping/" target="_blank" rel="external">http://steemwhales.com/timestamping/</a><br>GitHub: <a href="https://github.com/skzap/steemtime" target="_blank" rel="external">https://github.com/skzap/steemtime</a></p>
+<p>Developers, you can call the timestamping api directly like so:</p>
+<h3 id="Stamping"><a href="#Stamping" class="headerlink" title="Stamping"></a>Stamping</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">curl --data &quot;hash=&lt;your hash here&gt;&quot; http://steemwhales.com:6060/time/request</div></pre></td></tr></table></figure>
+<h3 id="Verifying"><a href="#Verifying" class="headerlink" title="Verifying"></a>Verifying</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">curl --data &quot;hash=&lt;your hash here&gt;&quot; http://steemwhales.com:6060/time/verify</div></pre></td></tr></table></figure>
+<hr>
+<p>I don’t have much hope many steem users will have a big need for this, after all this is still a niche. For those wondering, yes I have a personal use for it. Maybe some people in need for it might stumble upon my post from google in the future though.</p>
+<p>For those wondering, big SteemWhales update coming soon, stay tuned. :)</p>
+
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="http://heimindanger.com/2016/09/12/trusted-timestamps-or-what-is-it-and-why-steem-is-a-very-good-support-for-it/" data-id="cixg1zp9t000nldjzsvgnpl0e" class="article-share-link">Share</a>
+      
+      
+  <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/steemtime/">steemtime</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/steemwhales/">steemwhales</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/time/">time</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/timestamping/">timestamping</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/trusted/">trusted</a></li></ul>
+
+    </footer>
+  </div>
+  
+    
+<nav id="article-nav">
+  
+    <a href="/2016/09/12/steemwhales-update-or-discover-who-are-currently-the-best-authors-and-curators/" id="article-nav-newer" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">Newer</strong>
+      <div class="article-nav-title">
+        
+          SteemWhales Update | Discover who are currently the best authors and curators
+        
+      </div>
+    </a>
+  
+  
+    <a href="/2016/08/20/steemwhales-com-update-or-followers-stats-activity-indicator-and-a-bit-of-advertising/" id="article-nav-older" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">Older</strong>
+      <div class="article-nav-title">SteemWhales.com Update | Followers stats, Activity Indicator, and a bit of advertising</div>
+    </a>
+  
+</nav>
+
+  
+</article>
+
+</section>
+        
+          <aside id="sidebar">
+  
+    
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Tags</h3>
+    <div class="widget">
+      <ul class="tag-list"><li class="tag-list-item"><a class="tag-list-link" href="/tags/christmas/">christmas</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/dance/">dance</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/dancing/">dancing</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/downvote/">downvote</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/followers/">followers</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/gambling/">gambling</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/goodbye/">goodbye</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/lottery/">lottery</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/money/">money</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/music/">music</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/rankings/">rankings</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/reputation/">reputation</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/shuffling/">shuffling</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/stats/">stats</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/steem/">steem</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/steemit/">steemit</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/steemloto/">steemloto</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/steemsanta/">steemsanta</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/steemstats/">steemstats</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/steemtime/">steemtime</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/steemwhales/">steemwhales</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/time/">time</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/timestamping/">timestamping</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/trending/">trending</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/trusted/">trusted</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/video/">video</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/whales/">whales</a></li></ul>
+    </div>
+  </div>
+
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Tag Cloud</h3>
+    <div class="widget tagcloud">
+      <a href="/tags/christmas/" style="font-size: 10px;">christmas</a> <a href="/tags/dance/" style="font-size: 10px;">dance</a> <a href="/tags/dancing/" style="font-size: 10px;">dancing</a> <a href="/tags/downvote/" style="font-size: 10px;">downvote</a> <a href="/tags/followers/" style="font-size: 10px;">followers</a> <a href="/tags/gambling/" style="font-size: 10px;">gambling</a> <a href="/tags/goodbye/" style="font-size: 10px;">goodbye</a> <a href="/tags/lottery/" style="font-size: 10px;">lottery</a> <a href="/tags/money/" style="font-size: 10px;">money</a> <a href="/tags/music/" style="font-size: 12px;">music</a> <a href="/tags/rankings/" style="font-size: 10px;">rankings</a> <a href="/tags/reputation/" style="font-size: 10px;">reputation</a> <a href="/tags/shuffling/" style="font-size: 10px;">shuffling</a> <a href="/tags/stats/" style="font-size: 14px;">stats</a> <a href="/tags/steem/" style="font-size: 18px;">steem</a> <a href="/tags/steemit/" style="font-size: 20px;">steemit</a> <a href="/tags/steemloto/" style="font-size: 10px;">steemloto</a> <a href="/tags/steemsanta/" style="font-size: 10px;">steemsanta</a> <a href="/tags/steemstats/" style="font-size: 10px;">steemstats</a> <a href="/tags/steemtime/" style="font-size: 10px;">steemtime</a> <a href="/tags/steemwhales/" style="font-size: 12px;">steemwhales</a> <a href="/tags/time/" style="font-size: 10px;">time</a> <a href="/tags/timestamping/" style="font-size: 10px;">timestamping</a> <a href="/tags/trending/" style="font-size: 10px;">trending</a> <a href="/tags/trusted/" style="font-size: 10px;">trusted</a> <a href="/tags/video/" style="font-size: 10px;">video</a> <a href="/tags/whales/" style="font-size: 16px;">whales</a>
+    </div>
+  </div>
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Archives</h3>
+    <div class="widget">
+      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/12/">December 2016</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/11/">November 2016</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/09/">September 2016</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/08/">August 2016</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/07/">July 2016</a></li></ul>
+    </div>
+  </div>
+
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Recent Posts</h3>
+    <div class="widget">
+      <ul>
+        
+          <li>
+            <a href="/2016/12/15/early-xmas-update-on-steemwhales-com/">Early XMAS Update on SteemWhales.com</a>
+          </li>
+        
+          <li>
+            <a href="/2016/11/25/downvote-me-if-you-can-t/">Downvote me if you can&#39;t</a>
+          </li>
+        
+          <li>
+            <a href="/2016/09/12/steemwhales-update-or-discover-who-are-currently-the-best-authors-and-curators/">SteemWhales Update | Discover who are currently the best authors and curators</a>
+          </li>
+        
+          <li>
+            <a href="/2016/09/12/trusted-timestamps-or-what-is-it-and-why-steem-is-a-very-good-support-for-it/">Trusted Timestamps | What is it and why STEEM is a very good support for it</a>
+          </li>
+        
+          <li>
+            <a href="/2016/08/20/steemwhales-com-update-or-followers-stats-activity-indicator-and-a-bit-of-advertising/">SteemWhales.com Update | Followers stats, Activity Indicator, and a bit of advertising</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+
+  
+</aside>
+        
+      </div>
+      <footer id="footer">
+  
+  <div class="outer">
+    <div id="footer-info" class="inner">
+      &copy; 2017 Heimindanger<br>
+      Powered by <a href="http://hexo.io/" target="_blank">Hexo</a>
+    </div>
+  </div>
+</footer>
+    </div>
+    <nav id="mobile-nav">
+  
+    <a href="/" class="mobile-nav-link">Home</a>
+  
+    <a href="/archives" class="mobile-nav-link">Archives</a>
+  
+</nav>
+    
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+
+
+  <link rel="stylesheet" href="/fancybox/jquery.fancybox.css">
+  <script src="/fancybox/jquery.fancybox.pack.js"></script>
+
+
+<script src="/js/script.js"></script>
+
+  </div>
+</body>
+</html>
