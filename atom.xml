@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://skzap.github.io/"/>
-  <updated>2017-01-02T13:24:09.135Z</updated>
+  <updated>2017-01-02T13:49:41.186Z</updated>
   <id>https://skzap.github.io/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="https://skzap.github.io/2016/12/15/early-xmas-update-on-steemwhales-com/"/>
     <id>https://skzap.github.io/2016/12/15/early-xmas-update-on-steemwhales-com/</id>
     <published>2016-12-15T02:49:09.000Z</published>
-    <updated>2017-01-02T13:24:09.135Z</updated>
+    <updated>2017-01-02T13:49:41.186Z</updated>
     
     <content type="html"><![CDATA[<center><a href="http://www.steemwhales.com/" target="_blank" rel="external"><img src="http://i.imgur.com/tKR9pxo.png" title="STEEM Net Distribution on 2016-12-14"></a><br></center>
 
@@ -46,9 +46,9 @@
     </summary>
     
     
-      <category term="steemwhales" scheme="https://skzap.github.io/tags/steemwhales/"/>
-    
       <category term="steem" scheme="https://skzap.github.io/tags/steem/"/>
+    
+      <category term="steemwhales" scheme="https://skzap.github.io/tags/steemwhales/"/>
     
       <category term="steemsanta" scheme="https://skzap.github.io/tags/steemsanta/"/>
     
@@ -61,7 +61,7 @@
     <link href="https://skzap.github.io/2016/11/25/downvote-me-if-you-can-t/"/>
     <id>https://skzap.github.io/2016/11/25/downvote-me-if-you-can-t/</id>
     <published>2016-11-25T18:13:33.000Z</published>
-    <updated>2017-01-02T13:24:09.135Z</updated>
+    <updated>2017-01-02T13:49:41.186Z</updated>
     
     <content type="html"><![CDATA[<p>I joined steem in July after reading the article on <a href="https://www.theguardian.com/technology/2016/jul/12/steem-digital-currency-steemit-value-soars" target="_blank" rel="external">theguardian.com</a>, and I have never bothered to do a presentation post, which was the trend at the time. Maybe I should have, because people still don’t seem to understand the kind of person I am.</p>
 <center><br><a href="http://i.imgur.com/ue9iKuq.png" target="_blank" rel="external">http://i.imgur.com/ue9iKuq.png</a><br></center>
@@ -146,7 +146,7 @@
     <link href="https://skzap.github.io/2016/09/12/steemwhales-update-or-discover-who-are-currently-the-best-authors-and-curators/"/>
     <id>https://skzap.github.io/2016/09/12/steemwhales-update-or-discover-who-are-currently-the-best-authors-and-curators/</id>
     <published>2016-09-12T19:53:54.000Z</published>
-    <updated>2017-01-02T13:24:09.135Z</updated>
+    <updated>2017-01-02T13:49:41.186Z</updated>
     
     <content type="html"><![CDATA[<p><a href="http://steemwhales.com/pic/whale.png" target="_blank" rel="external">http://steemwhales.com/pic/whale.png</a></p>
 <p>I’m not sure exactly who, but at least <em>3 different people</em> requested a feature similar to what I am introducing today.<br>Ranking people is cool, but instead of seeing the total data since the start, we need to be able to see what is <em>trending</em>.</p>
@@ -185,7 +185,7 @@
     <link href="https://skzap.github.io/2016/09/12/trusted-timestamps-or-what-is-it-and-why-steem-is-a-very-good-support-for-it/"/>
     <id>https://skzap.github.io/2016/09/12/trusted-timestamps-or-what-is-it-and-why-steem-is-a-very-good-support-for-it/</id>
     <published>2016-09-11T22:50:27.000Z</published>
-    <updated>2017-01-02T13:24:09.135Z</updated>
+    <updated>2017-01-02T13:49:41.186Z</updated>
     
     <content type="html"><![CDATA[<p>## </p>
 <p><img src="https://ipfs.pics/ipfs/QmYLhh3a1TkLDoE7E9j7wt3oxgSRL7ZR4deLsgy4NtRQfY" alt=""></p>
@@ -252,7 +252,7 @@
     <link href="https://skzap.github.io/2016/08/20/steemwhales-com-update-or-followers-stats-activity-indicator-and-a-bit-of-advertising/"/>
     <id>https://skzap.github.io/2016/08/20/steemwhales-com-update-or-followers-stats-activity-indicator-and-a-bit-of-advertising/</id>
     <published>2016-08-20T14:11:06.000Z</published>
-    <updated>2017-01-02T13:24:09.135Z</updated>
+    <updated>2017-01-02T13:49:41.186Z</updated>
     
     <content type="html"><![CDATA[<p><a href="http://steemwhales.com" target="_blank" rel="external"><img src="http://steemwhales.com/pic/whale.png" alt="http://steemwhales.com/pic/whale.png"></a></p>
 <h2 id="Followers-and-Following"><a href="#Followers-and-Following" class="headerlink" title="Followers and Following"></a>Followers and Following</h2><p>The follow feature got considerably more used by steemians since the update of our profile page last week. Follows are a very important statistic to track for authors, and it was a necessity to add it to SteemWhales.</p>
@@ -557,11 +557,11 @@
     
       <category term="whales" scheme="https://skzap.github.io/tags/whales/"/>
     
-      <category term="stats" scheme="https://skzap.github.io/tags/stats/"/>
-    
       <category term="followers" scheme="https://skzap.github.io/tags/followers/"/>
     
       <category term="rankings" scheme="https://skzap.github.io/tags/rankings/"/>
+    
+      <category term="stats" scheme="https://skzap.github.io/tags/stats/"/>
     
   </entry>
   
@@ -570,7 +570,7 @@
     <link href="https://skzap.github.io/2016/08/16/introducing-the-first-steem-dollars-lottery-only-usd0-01-sbd-per-ticket/"/>
     <id>https://skzap.github.io/2016/08/16/introducing-the-first-steem-dollars-lottery-only-usd0-01-sbd-per-ticket/</id>
     <published>2016-08-16T17:09:30.000Z</published>
-    <updated>2017-01-02T13:24:09.135Z</updated>
+    <updated>2017-01-02T13:49:41.186Z</updated>
     
     <content type="html"><![CDATA[<p>Most of my followers would probably expect me to post a SteemWhales update today, but it is not the case. Instead, I want to present a new project that @blueorgy and I have been working on for the past few days: an automated lottery for steem.</p>
 <h1 id="Introducing-http-steemloto-com"><a href="#Introducing-http-steemloto-com" class="headerlink" title="Introducing http://steemloto.com!"></a>Introducing <a href="http://steemloto.com!" target="_blank" rel="external">http://steemloto.com!</a></h1><center><h1><a href="https://ipfs.pics/ipfs/QmVJaRKJQQ1E5jK4f5zCPgMK3npJq1rhR6DG2HAGt3L71N" target="_blank" rel="external">https://ipfs.pics/ipfs/QmVJaRKJQQ1E5jK4f5zCPgMK3npJq1rhR6DG2HAGt3L71N</a></h1></center>
@@ -644,7 +644,7 @@
     <link href="https://skzap.github.io/2016/08/03/steemwhales-update-reputation-and-steem-power-withdrawal/"/>
     <id>https://skzap.github.io/2016/08/03/steemwhales-update-reputation-and-steem-power-withdrawal/</id>
     <published>2016-08-03T02:14:24.000Z</published>
-    <updated>2017-01-02T13:24:09.135Z</updated>
+    <updated>2017-01-02T13:49:41.186Z</updated>
     
     <content type="html"><![CDATA[<p><a href="http://steemwhales.com" target="_blank" rel="external"><img src="http://steemwhales.com/whale.png" title="STEEMWHALES.COM"></a></p>
 <h2 id="1-You-can-now-see-who-is-powering-down-in-a-glance"><a href="#1-You-can-now-see-who-is-powering-down-in-a-glance" class="headerlink" title="1- You can now see who is powering down in a glance"></a>1- You can now see who is powering down in a glance</h2><p>I only saw <a href="https://steemit.com/steem/@bitcoiner/steemdown-com-which-whales-are-powering-down" target="_blank" rel="external">this post</a> today. And indeed, we need to know who is powering down, so I added this feature on steem whales, visualized by a little <strong>piggy bank icon if a user is powering down</strong>. If you put your cursor on it, it will tell you <strong>how much steem is being powered down and when</strong>.</p>
@@ -680,7 +680,7 @@
     <link href="https://skzap.github.io/2016/08/01/steemwhales-update-evolution-and-distribution/"/>
     <id>https://skzap.github.io/2016/08/01/steemwhales-update-evolution-and-distribution/</id>
     <published>2016-08-01T20:59:00.000Z</published>
-    <updated>2017-01-02T13:24:09.135Z</updated>
+    <updated>2017-01-02T13:49:41.186Z</updated>
     
     <content type="html"><![CDATA[<h1 id="NEW-ON-STEEM-WHALES"><a href="#NEW-ON-STEEM-WHALES" class="headerlink" title="NEW ON STEEM WHALES"></a>NEW ON <a href="http://steemwhales.com" target="_blank" rel="external">STEEM WHALES</a></h1><h2 id="Evolution-of-supply"><a href="#Evolution-of-supply" class="headerlink" title="Evolution of supply"></a>Evolution of supply</h2><p>You can now see how the total of a metric changes through time.<br>Example for SBD:<br><a href="https://ipfs.pics/ipfs/QmdhijZNeWGTSud5ArdmR9RSRHfkkgCqxSmHpDUxx141Bs" target="_blank" rel="external">https://ipfs.pics/ipfs/QmdhijZNeWGTSud5ArdmR9RSRHfkkgCqxSmHpDUxx141Bs</a><br><em>That’s right, it’s growing</em></p>
 <h2 id="Distribution"><a href="#Distribution" class="headerlink" title="Distribution"></a>Distribution</h2><p>You can now see the distribution of a metric between the top 1%, 1-10% , and 10-100%.<br>Example for net $ estimated value<br><a href="https://ipfs.pics/ipfs/QmSbzJqiECYqoWDR4F9UNWZ5tVU1fMr1LG8D9k9ecRZxxX" target="_blank" rel="external">https://ipfs.pics/ipfs/QmSbzJqiECYqoWDR4F9UNWZ5tVU1fMr1LG8D9k9ecRZxxX</a><br><em>Welcome to the real world</em></p>
@@ -712,7 +712,7 @@
     <link href="https://skzap.github.io/2016/07/21/steemwhales-com-history-graphs-and-daily-changes-on-your-personal-stats-page/"/>
     <id>https://skzap.github.io/2016/07/21/steemwhales-com-history-graphs-and-daily-changes-on-your-personal-stats-page/</id>
     <published>2016-07-21T20:10:45.000Z</published>
-    <updated>2017-01-02T13:24:09.135Z</updated>
+    <updated>2017-01-02T13:49:41.186Z</updated>
     
     <content type="html"><![CDATA[<p>Two days ago I was <a href="https://steemit.com/steemit/@heimindanger/introducing-steemwhales-com-a-rankings-website-for-steemians" target="_blank" rel="external">introducing Steem Whales</a>. The post received an astounding number of upvotes, and propulsed me from #~5500 to #1776 on my own website. Thanks to all upvoters. $300 is actually a respectable amount of money for me right now, but I think the right choice now for me is to convert ALL OF IT into STEEM POWER. Enough about me, let’s talk about the website.</p>
 <p>Now that we can sort steemians by anything, we need to know how things evolve through time. Now that we know who is on top or rock bottom, we need to know who is climbing and who is falling. As a consequence, <a href="http://steemwhales.com" target="_blank" rel="external">SteemWhales.com</a> now saves all the user stats every day, and gives public access to it, without anyone needing to <em>replay</em> the blockchain.</p>
@@ -750,7 +750,7 @@
     <link href="https://skzap.github.io/2016/07/20/introducing-steemwhales-com-a-rankings-website-for-steemians/"/>
     <id>https://skzap.github.io/2016/07/20/introducing-steemwhales-com-a-rankings-website-for-steemians/</id>
     <published>2016-07-20T02:04:42.000Z</published>
-    <updated>2017-01-02T13:24:09.135Z</updated>
+    <updated>2017-01-02T13:49:41.186Z</updated>
     
     <content type="html"><![CDATA[<h3 id="Do-you-want-to-know-who-are-the-leaders-of-the-steem-community"><a href="#Do-you-want-to-know-who-are-the-leaders-of-the-steem-community" class="headerlink" title="Do you want to know who are the leaders of the steem community?"></a>Do you want to know who are the leaders of the steem community?</h3><h3 id="Do-you-want-to-know-how-you-rank"><a href="#Do-you-want-to-know-how-you-rank" class="headerlink" title="Do you want to know how you rank?"></a>Do you want to know how you rank?</h3><h2 id="YOU-NOW-CAN-ON-STEEM-WHALES"><a href="#YOU-NOW-CAN-ON-STEEM-WHALES" class="headerlink" title="YOU NOW CAN ON STEEM WHALES"></a>YOU NOW CAN ON <a href="http://steemwhales.com" target="_blank" rel="external">STEEM WHALES</a></h2><p><img src="http://steemwhales.com/whale.png" alt="Steem Whales Logo"></p>
 <h3 id="Features"><a href="#Features" class="headerlink" title="Features:"></a>Features:</h3><ul>
@@ -784,7 +784,7 @@
     <link href="https://skzap.github.io/2016/07/18/do-what-you-want-cause-you-love-it/"/>
     <id>https://skzap.github.io/2016/07/18/do-what-you-want-cause-you-love-it/</id>
     <published>2016-07-18T17:25:21.000Z</published>
-    <updated>2017-01-02T13:24:09.135Z</updated>
+    <updated>2017-01-02T13:49:41.186Z</updated>
     
     <content type="html"><![CDATA[<p><a href="https://www.youtube.com/watch?v=eEuBMoH_irE" target="_blank" rel="external">https://www.youtube.com/watch?v=eEuBMoH_irE</a></p>
 ]]></content>
@@ -812,7 +812,7 @@
     <link href="https://skzap.github.io/2016/07/15/few-questions-about-how-rewards-work-on-steemit/"/>
     <id>https://skzap.github.io/2016/07/15/few-questions-about-how-rewards-work-on-steemit/</id>
     <published>2016-07-15T19:50:48.000Z</published>
-    <updated>2017-01-02T13:24:09.135Z</updated>
+    <updated>2017-01-02T13:49:41.186Z</updated>
     
     <content type="html"><![CDATA[<html><br><p>I’ve been using steemit for a couple days now, I’ve been trying to upvote and post some content, but I have a few questions that I need answered.</p><br><ol><br>  <li>Is there any reward for downvoting a bad content? My voting power goes down when I do, and if I’m not going to get anything from doing it, why should I even bother?</li><br>  <li>How does the rewards for upvoting work exactly? Do I get rewarded more for upvoting before others?</li><br>  <li>If the same person (same SP) upvotes an article that is 10 characters, and another that is 100 characters, would it give the same reward to the two content creators ?</li><br></ol><br><p>I have made a few searches but couldn’t find detailed information on these subjects.</p><br><p>Thank you in advance for possible answers.</p><br></html>]]></content>
     
@@ -834,7 +834,7 @@
     <link href="https://skzap.github.io/2016/07/15/i-monster-daydream-in-blue/"/>
     <id>https://skzap.github.io/2016/07/15/i-monster-daydream-in-blue/</id>
     <published>2016-07-15T16:35:42.000Z</published>
-    <updated>2017-01-02T13:24:09.135Z</updated>
+    <updated>2017-01-02T13:49:41.186Z</updated>
     
     <content type="html"><![CDATA[<p><a href="https://www.youtube.com/watch?v=BhB6Lb7_kN8" target="_blank" rel="external">https://www.youtube.com/watch?v=BhB6Lb7_kN8</a></p>
 ]]></content>
@@ -856,7 +856,7 @@
     <link href="https://skzap.github.io/2016/07/14/magic-sword-sword-of-truth/"/>
     <id>https://skzap.github.io/2016/07/14/magic-sword-sword-of-truth/</id>
     <published>2016-07-14T00:16:21.000Z</published>
-    <updated>2017-01-02T13:24:09.138Z</updated>
+    <updated>2017-01-02T13:49:41.189Z</updated>
     
     <content type="html"><![CDATA[<p><a href="https://www.youtube.com/watch?v=Nt2qgY31ziE" target="_blank" rel="external">https://www.youtube.com/watch?v=Nt2qgY31ziE</a></p>
 ]]></content>
